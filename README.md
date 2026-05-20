@@ -1,21 +1,11 @@
 <div align="center">
 
-# ⚡UnY EV⚡
-### Unified Charging Infrastructure Platform
-
-<!-- <img src="https://img.shields.io/badge/Status-Under%20Development-3b82f6?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Focus-EV%20Infrastructure-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Payments-UPI%20%2B%20NFC-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX-Premium%20SoftUI-f97316?style=for-the-badge"/> -->
-
-<br>
-
-### • One App For All • Offline Payment Servives • Seamless Charging Experience •
-
-Building Unified Infra for future of EV charging India.
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=⚡%20UnY%20EV%20⚡&fontSize=62&fontColor=ffffff&font=Montserrat&animation=fadeIn&fontAlignY=32&desc=Unified%20Charging%20Infrastructure%20Platform&descSize=18&descAlignY=50"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1200&color=60A5FA&center=true&vCenter=true&width=950&lines=.+One+Platform+.+Every+Charger.;Built+for+the+Next+Generation+of+EV+Mobility.;Where+EV+Charging+Meets+Simplicity."/>
+</p>
 </div>
 
 # 🌍 The Problem
