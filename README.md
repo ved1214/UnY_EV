@@ -3,10 +3,10 @@
 # ⚡UnY EV⚡
 ### Unified Charging Infrastructure Platform
 
-<img src="https://img.shields.io/badge/Status-Under%20Development-3b82f6?style=for-the-badge&logo=github"/>
+<!-- <img src="https://img.shields.io/badge/Status-Under%20Development-3b82f6?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Focus-EV%20Infrastructure-22c55e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Payments-UPI%20%2B%20NFC-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX-Premium%20SoftUI-f97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Premium%20SoftUI-f97316?style=for-the-badge"/> -->
 
 <br>
 
